@@ -71,7 +71,6 @@ h2, h3 {
 
 .box h3 {
   font-size: 1.25em;
-  transition: ease-in-out 0.3s;
 }
 
 ul {
@@ -79,7 +78,6 @@ ul {
   margin: 0;
   padding: 0; 
 }
-
 
 ul li {
   list-style: none;
